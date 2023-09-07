@@ -1,10 +1,14 @@
-
+import Chai from "./chai"
 
 function App() {
 
 
   return (
-   <h1>Aditya Wani || Learn  React</h1>
+    <>
+   <Chai/>
+   <h2>Test </h2>
+   <h2>Fragment</h2>
+   </>
   )
 }
 
